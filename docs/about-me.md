@@ -1,7 +1,13 @@
+---
+icon: lucide/package-open
+tags:
+  - About Me
+---
+
 # About Me
 
 
-![Abhishek Sahu](img/my-photo-animated.png){: .profile-photo }
+![Abhishek Sahu](assets/img/my-photo-animated.png){: .profile-photo }
 
 ## 👋 Hi, I'm Abhishek Sahu
 

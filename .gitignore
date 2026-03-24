@@ -1,2 +1,8 @@
+.vscode
 .idea
+.cache
+.venv
+__pycache__
 site
+*.iml
+.DS_Store
