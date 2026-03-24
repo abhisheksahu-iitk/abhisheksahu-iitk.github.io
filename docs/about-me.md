@@ -1,7 +1,7 @@
 ---
-icon: lucide/package-open
-tags:
-  - About Me
+title: About Me
+description: My Life Intresting Journey, Education, Experience, and Beyond
+icon: lucide/user
 ---
 
 # About Me
@@ -25,7 +25,9 @@ Rather than chasing **distant long-term plans**, I believe in a more adaptive vi
 
 ## 🤝 Let’s Connect
 
-I’m always open to meaningful conversations around technology, systems, and ideas.
+I’m always open to meaningful conversations around **technology, system design, and ideas that create impact**. Whether it’s discussing scalable architectures, sharing learnings, collaborating on projects, or just exchanging perspectives — feel free to reach out.
+
+If something I’ve built or written resonates with you, that’s already a great starting point for a conversation.
 
 :material-gmail: [abhisheksahu.cse@gmail.com](mailto:abhisheksahu.cse@gmail.com)
 
@@ -34,7 +36,25 @@ I’m always open to meaningful conversations around technology, systems, and id
 
 ---
 
-## 🎓 Education (Yes, The Numbers Are Real)
+## 🎓 Education Journey
+
+If I had to describe my education, I wouldn’t call it just a list of degrees — it’s a story of **discipline, exploration, and continuous evolution**.
+
+It all started during my **Matriculation**, where I first realized that I could actually do well in academics. More importantly, it taught me the value of **taking small, consistent steps** — the foundation of discipline that still drives me today.
+
+During my **Intermediate**, things changed. I became more serious, more focused. I pushed myself through a vast syllabus with hard work and persistence, experimenting with different ways of learning. This phase was where I truly understood what it means to **commit fully to something**.
+
+Then came **B.Tech** — not just a degree, but a transformation phase. Being in a vibrant and happening college environment, I didn’t limit myself to academics. I learned life skills — from communication and confidence to participating in events, sports, and competitions. Alongside all of this, I consistently performed well academically, even becoming a **topper**.
+
+Qualifying **GATE** and getting into **IIT Kanpur** was a defining moment. This place didn’t just educate me — it **refined and matured me** as a Computer Science professional.
+
+Initially, I immersed myself in a wide range of activities — extracurriculars, building connections, making friends, and of course, playing a lot of cricket (where I was fondly known as *“Sahu Bhai”* 😄). Despite juggling so much, I maintained strong academic performance — learning how to **manage multiple priorities efficiently**.
+
+At IIT, my curiosity reached another level. I explored different dimensions of technology, worked across research areas, and constantly pushed myself to learn beyond the classroom. Along the way, I traveled, experienced life, and grew into a more energetic and well-rounded individual.
+
+For me, education was never confined to textbooks or classrooms. It never restricted me — instead, it gave me the confidence to step outside my domain.
+
+**Below is my report card** 🤣
 
 | Year      | Degree / Certificate             | Institute                     | Score     |
 | --------- | -------------------------------- | ----------------------------- | --------- |
@@ -57,73 +77,28 @@ I’m always open to meaningful conversations around technology, systems, and id
 
 ---
 
-## 🔬 Research Work
-
-### Centralised Public Grievance Redress and Monitoring System (CPGRAMS)
-
-* Enhanced grievance system with **machine learning capabilities**
-* Improved semantic search relevance and reduced latency
-* Designed auto-completion and query generation features
-* Built ML classifiers for spam detection with human supervision
-* Implemented authentication and application security mechanisms
-
----
-
-## 🧠 Past Works (Selected)
-
-| Domain                | Work                                                                                          |
-| --------------------- | --------------------------------------------------------------------------------------------- |
-| Information Retrieval | Built multilingual search system for Bhagavad Gita using BERT, LSA, Word2Vec (MAP up to 67.2) |
-| Cybersecurity / ML    | Developed DoH malware detection system with 98% accuracy                                      |
-| Data Analysis         | Performed decadal pollution analysis of India using statistical methods                       |
-| IoT + AI              | Built sleep analysis system using CNN-LSTM (89% accuracy)                                     |
-| NLP                   | Worked on computational linguistics for Indian languages using N-grams & LSA                  |
-| Machine Learning      | Implemented ML algorithms (SVM, Random Forest, PCA, etc.) with optimizations                  |
-| Data Science          | Analyzed COVID-19 data to identify trends, hotspots, and vaccination insights                 |
-
----
-
 ## 🛠️ Technical Skills
 
-| Category           | Technologies                              |
-| ------------------ | ----------------------------------------- |
-| Languages          | C, Java, Python, JavaScript, HTML, CSS    |
-| Frameworks & Tools | Spring, FastAPI, Docker                   |
-| Databases          | MySQL, MongoDB, Elasticsearch, Oracle 11g |
+I consider myself a **fast and adaptable learner**, someone who never says no to a new technology. For me, it’s not about memorizing syntax — it’s about **understanding how things actually work under the hood**.
 
----
+I believe real strength in engineering comes from grasping **concepts, patterns, and system behavior**, rather than just language-specific details. That’s why I focus on building a strong foundation that allows me to move across technologies with ease.
 
-## 📚 Relevant Coursework
+Throughout my journey, whenever I encounter something new, my approach is simple:
+**explore → read documentation → build a POC → get hands-on experience.**
 
-Machine Learning, Data Mining, Information Retrieval, Internet of Things
-Malware Analysis, Cryptology, Big Data Visualization
-Computer Networks, Database Systems, Operating Systems
-Natural Language Processing, Compiler Design
+I enjoy getting my hands dirty, experimenting, and learning by doing. This mindset has helped me quickly adapt to different tools, frameworks, and domains without hesitation.
 
----
+I may not claim to memorize every syntax, but I take pride in my ability to **learn, adapt, and deliver across technologies efficiently**.
 
-## 🏅 Achievements
+Below are some of the technologies I’ve worked with, but this list is always evolving as I continue to explore and learn new things:
 
-* 🥈 Silver Award + ₹3 Lakhs at National e-Governance Conference
-* 🎯 GATE CS AIR 590 (among 100,000+ candidates)
-* 🥇 1st Position — Overnight Coding (SANKALP 2020)
-* 🥇 1st Position — Paper Presentation (SANKALP 2020)
-* 🥇 1st Position — Sanskrit Skit (KV Berhampur)
-* 🥈 Regional Shotput Competitor & other sports achievements
-* 🎓 O-Grade in Oracle 11g Summer Training
-
----
-
-## 👨‍🏫 Positions of Responsibility
-
-| Role                              | Organization / Course       |
-| --------------------------------- | --------------------------- |
-| Department Placement Coordinator  | IIT Kanpur                  |
-| Senior Student Research Associate | Ministry of Defence Project |
-| Teaching Assistant                | Database Systems            |
-| Teaching Assistant                | Operating Systems           |
-| Teaching Assistant                | Fundamentals of Computing   |
-| Core Member                       | Club Excel                  |
+| Category   | Technologies                                              |
+|------------|-----------------------------------------------------------|
+| Languages  | C, Java, Python, JavaScript, TypeScript, Ruby             |
+| Frameworks | Spring Boot, FastAPI, Rails, Micronaut, React, Oracle JET |
+| Databases  | MySQL, MongoDB, Elasticsearch, Oracle Sql                 |
+| CICD       | Jenkins, Kubernetes, Electric Commander, Docker           |
+| Cloud      | Oracle Cloud                                              |
 
 ---
 
@@ -131,12 +106,8 @@ Natural Language Processing, Compiler Design
 
 Outside of engineering, I like to keep life balanced and active:
 
-* 🏏 Playing cricket
-* 🚴 Cycling and exploring
-* ✈️ Traveling
-* 🎧 Music and audiobooks
-
-I’ve also conducted a **Python workshop for school students** and actively contribute as a **blood donor**, believing in giving back beyond tech.
+* 🏏 Playing cricket - Don't ask me about my batting average, but I can definitely hold my own on the field! 😄
+* 🎧 Music and audiobooks - Always have a playlist ready for coding sessions or relaxation.
 
 
 
