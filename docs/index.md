@@ -1,8 +1,8 @@
-## Welcome
+## Welcome 
 
 This site is maintained by **Abhishek Sahu**.
 
-## Explore
+## Explore my content
 
 <div class="grid cards" markdown>
 
