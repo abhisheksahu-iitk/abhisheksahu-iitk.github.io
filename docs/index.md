@@ -1,15 +1,27 @@
-## 🚀 Explore
+## Welcome
+
+This site is maintained by **Abhishek Sahu**.
+
+## Explore
 
 <div class="grid cards" markdown>
 
--   **LLD**
-    ---
-    System design, patterns, architecture  
-    [Explore →](lld/index.md)
+- :material-account: **[About](about-me.md)**
 
--   **Blogs**
-    ---
-    Learnings, experiments, insights  
-    [Read →](lld/blogs/index.md)
+  ---
+
+  Learn who maintains this site and read more about me.
+
+- :material-post: **[Blogs](blogs/index.md)**
+
+  ---
+
+  Read my blog posts and updates.
+
+- :material-notebook: **[Notes](notes/index.md)**
+
+  ---
+
+  Browse my technical notes and study material.
 
 </div>
