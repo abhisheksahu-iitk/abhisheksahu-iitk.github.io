@@ -22,3 +22,26 @@
   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
 }
 
+/*Embla*/
+.embla {
+  overflow: hidden;
+}
+
+.embla__viewport {
+  overflow: hidden;
+}
+
+.embla__container {
+  display: flex;
+  margin-left: -8px;  /* compensate padding */
+}
+
+.embla__slide {
+  flex: 0 0 80%;
+  padding-left: 16px;
+}
+
+.embla__slide img {
+  width: 100%;
+  border-radius: 12px;
+}

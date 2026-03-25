@@ -109,5 +109,27 @@ Outside of engineering, I like to keep life balanced and active:
 * 🏏 Playing cricket - Don't ask me about my batting average, but I can definitely hold my own on the field! 😄
 * 🎧 Music and audiobooks - Always have a playlist ready for coding sessions or relaxation.
 
+<div class="embla">
 
+  <div class="embla__viewport">
+
+    <div class="embla__container">
+
+      <div class="embla__slide">
+        <img src="https://picsum.photos/id/1015/600/400">
+      </div>
+
+      <div class="embla__slide">
+        <img src="https://picsum.photos/id/1016/600/400">
+      </div>
+
+      <div class="embla__slide">
+        <img src="https://picsum.photos/id/1018/600/400">
+      </div>
+
+    </div>
+
+  </div>
+
+</div>
 
