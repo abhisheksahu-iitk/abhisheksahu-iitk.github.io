@@ -16,7 +16,7 @@ document.addEventListener("DOMContentLoaded", function () {
             },
             [
                 EmblaCarouselAutoplay({
-                    delay: 4000,
+                    delay: 3000,
                     stopOnInteraction: false,
                     stopOnMouseEnter: false, 
                 }),
