@@ -7,7 +7,7 @@ icon: lucide/user
 # About Me
 
 
-![Abhishek Sahu](assets/img/my-photo-animated.png){: .profile-photo }
+![Abhishek Sahu](assets/img/my-photo-animated-optimized.png){: .profile-photo }
 
 ## 👋 Hi, I'm Abhishek Sahu
 
