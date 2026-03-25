@@ -11,12 +11,14 @@ document.addEventListener("DOMContentLoaded", function () {
             {
                 loop: true,
                 align: "center",
+                dragFree: true,
+                speed: 1,
             },
             [
                 EmblaCarouselAutoplay({
-                    delay: 2000,          // 2 seconds
-                    stopOnInteraction: true, // stops when user swipes
-                    stopOnMouseEnter: false, // pause on hover
+                    delay: 4000,
+                    stopOnInteraction: false,
+                    stopOnMouseEnter: false, 
                 }),
             ]
         );
