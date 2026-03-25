@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", function () {
             viewportNode,
             {
                 loop: true,
-                align: "start",
+                align: "center",
             },
             [
                 EmblaCarouselAutoplay({
